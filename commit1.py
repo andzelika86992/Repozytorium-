@@ -4,4 +4,3 @@ def hello(name)
 Zadanie pierwsze z przedmiotu inżyniernia oprogramowania,
 Tworzenie repozytorium.
 
-Commit stworzony!
