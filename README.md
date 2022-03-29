@@ -1,4 +1,4 @@
-To jest repozytorium zdanie 1 - IO
+To jest repozytorium z kalkulatorem zdanie 1 - IO
 
 Autor: Andżelika Kryńska
-Data: 29.03.2022
+Data: 29.032022
