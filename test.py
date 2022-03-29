@@ -12,3 +12,4 @@ druga = input()
 
 print (dodaj(pierwsza, druga))
 
+Adi zaakceptujesz mój pull request?
